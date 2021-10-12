@@ -13,6 +13,7 @@ Foi escolhido um tamanho de 800px, centralizado na tela. É completamente possí
 ## Instalação ##
 
 ### TamperMonkey ###
-1. Abra https://github.com/dhelly/casacivil-script-leitura/blob/main/best_fit_to_reading-Casa-Civil.js
-2. Salve o script em uma pasta de sua preferência
-3. Arraste o script para o firefox e selecione a opção instalar
+1. Abra https://raw.githubusercontent.com/dhelly/casacivil-script-leitura/main/best_fit_to_reading-Casa-Civil.js
+2. No ícone do TamperMonkey selecione a opção "create a new script ...".
+3. Copie o script do github e substitua por todo o conteúdo para o script vazio.
+4. Só salvar e testar em qualquer lei do site da Casa Civil.
