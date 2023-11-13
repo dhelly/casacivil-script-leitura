@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Melhorar a leitura das leis no site da casa civil
 // @author       jaqueline fernandes
-// @match        http://www.planalto.gov.br/ccivil_03/*
+// @match        https://www.planalto.gov.br/ccivil_03/*
 // @icon         https://www.google.com/s2/favicons?domain=gov.br
 // ==/UserScript==
 
